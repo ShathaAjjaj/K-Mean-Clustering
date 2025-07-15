@@ -26,7 +26,8 @@ Repeat until convergence (no major changes in centroids).
 
 You can use the Elbow Method to decide, The Elbow Method is a technique used to find the optimal number of clusters (K) for your K-Means algorithm.
 
-##❓Why Do We Need the Elbow Method?
+
+## ❓Why Do We Need the Elbow Method?
 
 When you apply K-Means, you must choose K, the number of clusters. But how do you know what value of K is best?
 
