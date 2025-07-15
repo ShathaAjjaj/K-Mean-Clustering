@@ -39,6 +39,8 @@ Too large K → clusters will be too narrow or meaningless.
 
 The Elbow Method helps you pick the best K, where adding more clusters doesn’t significantly improve the model.
 
+<img width="725" height="469" alt="Screenshot 1447-01-20 at 10 15 39 PM" src="https://github.com/user-attachments/assets/744efef6-6fee-46bf-ae7e-6c4fcb7fd76b" />
+
 ## Dataset:
 
 We'll use the popular Mall Customer Segmentation dataset. It contains customer details like:
