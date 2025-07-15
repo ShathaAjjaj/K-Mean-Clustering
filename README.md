@@ -41,6 +41,16 @@ The Elbow Method helps you pick the best K, where adding more clusters doesn’t
 
 <img width="725" height="469" alt="Screenshot 1447-01-20 at 10 15 39 PM" src="https://github.com/user-attachments/assets/744efef6-6fee-46bf-ae7e-6c4fcb7fd76b" />
 
+✅ Best K: 5
+
+💡 Why K=5?
+
+At K=5, the curve starts to flatten, meaning adding more clusters doesn't reduce inertia much.
+
+Before K=5, each added cluster dramatically reduces inertia.
+
+After K=5, the improvement becomes small (diminishing returns).
+
 ## Dataset:
 
 We'll use the popular Mall Customer Segmentation dataset. It contains customer details like:
