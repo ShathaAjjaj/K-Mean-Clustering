@@ -75,3 +75,16 @@ We'll cluster customers into groups based on their income and spending behavior.
 |  High Income, Low Spending    | Wealthy but not engaged                | Target with premium ads, loyalty programs    |
 |  Low Income, High Spending    | Engaged but might need budgeting tools | Offer savings plans, or personalized deals   |
 |  High Income, High Spending   | Ideal customers                        | VIP offers, exclusive deals, keep them loyal |
+
+## Analysis:
+
+ we can describe each cluster in a business-oriented way by interpreting the average Age, Annual Income, and Spending Score.
+
+ | Cluster | Description                             | Strategy                                |
+ | ------- | --------------------------------------- | --------------------------------------- |
+ | 0       | Mid-age, middle income, average spender | Loyalty programs, seasonal promos       |
+ | 1       | Young, high income, big spender         | VIP services, exclusivity, luxury focus |
+ | 2       | Young, low income, high spender         | Trendy/affordable products, urgency ads |
+ | 3       | Mid-age, high income, low spender       | Trust-building, emphasize value         |
+ | 4       | Older, low income, low spender          | Basic offers, price deals, local focus  |
+
